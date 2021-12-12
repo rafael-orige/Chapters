@@ -103,7 +103,7 @@ export default function HomePage() {
             setHasImages(false);
             setAdvSearchState(false);
             setSearchImages(true);
-        } else return window.alert('Preencher input.');
+        }
     };
 
     //It checks if there are no more images on screen before starting another search.
