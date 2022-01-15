@@ -7,7 +7,7 @@ function Header(props) {
     return (
         <header>
             <div className="container">
-                <Link to="/search"><img src="/logo.png" alt="" className="logo" /></Link>
+                <Link to="/search"><img src="/Logo.png" alt="" className="logo" /></Link>
                 <HeaderMenu page={props.page}/>
             </div>
         </header>
