@@ -2,7 +2,7 @@
   "name": "react-album2",
   "version": "0.1.0",
   "engine": {
-    "node": "16.13.1",
+    "node": "v16.13.1",
     "npm": "8.1.2"
   },
   "private": true,
